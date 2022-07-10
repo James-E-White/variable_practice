@@ -9,3 +9,6 @@ Wolverine_groups = "X-men, Avengers, short stint with Fantastic Four"
 
 Wolverine_height = 5.3
 Wolverine_running_speed = 35.5
+
+Wolverine_is_a_badass = true
+Wolverine_would_rather_work_alone = true
