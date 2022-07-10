@@ -12,3 +12,8 @@ Wolverine_running_speed = 35.5
 
 Wolverine_is_a_badass = true
 Wolverine_would_rather_work_alone = true
+
+code_name = "Weapon X"
+security_type = "Non-existent"
+puts the value of x = 100
+puts the value of a = 10
