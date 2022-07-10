@@ -6,3 +6,6 @@ Wolverine_weight = 300
 
 Wolverine_says = "I am the best at what I do"
 Wolverine_groups = "X-men, Avengers, short stint with Fantastic Four"
+
+Wolverine_height = 5.3
+Wolverine_running_speed = 35.5
